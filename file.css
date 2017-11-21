@@ -1,4 +1,24 @@
-<script>
+<style>
+#rnDialog1 #accordianhouse{
+  display:none; 
+}
+
+#rnDialog1 img{
+width: 100%;
+}
+
+#rnDialog1 #phoneimg{
+width: 60%;
+}
+
+#rnDialog1 .video {
+  width: 375px; 
+  height: 211px;
+  }
+
+</style>
+
+<style>
 
 @media (min-width: 500px) and (max-width: 50000px) {
   #appliesto {
@@ -116,4 +136,4 @@ div.panel {
 }
 
 
-</script>
+</style>
